@@ -1,1 +1,3 @@
-# 2DShooterTest
+# 2DShooter
+
+A Unity project to further knowledge
